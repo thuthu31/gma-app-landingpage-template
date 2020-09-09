@@ -1,10 +1,6 @@
 name: Fly with GMA
 description: The Best Price Guarantee on domestic flight tickets.
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+full_description: 'We make regular updates to improve your travels.<br/><br/> Current features:<br/> - One Way Trip<br/> - Round Trip'
 android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
 screenshots:
